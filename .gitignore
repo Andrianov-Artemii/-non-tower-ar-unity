@@ -21,10 +21,10 @@ ehthumbs.db
 [Bb]uild
 *.stackdump
 
-/[Ll]ibrary/
+/Library/
 /[Tt]emp/
 /[Bb]uilds/
-/[Ll]ogs/
+/Logs/
 /[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
